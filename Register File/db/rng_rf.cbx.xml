@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="rng_rf">
+		<CBX_INST_ENTRY INSTANCE_NAME="|rng_rf|rf_blue:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kp61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|rng_rf|rf_green:inst2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ts61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|rng_rf|rf_red:inst3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_7m61.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

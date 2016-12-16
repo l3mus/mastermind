@@ -1,0 +1,13 @@
+
+State Machine - |Mastermind|state
+Name state.lose state.win state.ends state.check_cc state.check_ccp state.check_count state.compare state.tries state.init state.clear 
+state.clear 0 0 0 0 0 0 0 0 0 0 
+state.init 0 0 0 0 0 0 0 0 1 1 
+state.tries 0 0 0 0 0 0 0 1 0 1 
+state.compare 0 0 0 0 0 0 1 0 0 1 
+state.check_count 0 0 0 0 0 1 0 0 0 1 
+state.check_ccp 0 0 0 0 1 0 0 0 0 1 
+state.check_cc 0 0 0 1 0 0 0 0 0 1 
+state.ends 0 0 1 0 0 0 0 0 0 1 
+state.win 0 1 0 0 0 0 0 0 0 1 
+state.lose 1 0 0 0 0 0 0 0 0 1 

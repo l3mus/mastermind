@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Dec 03 09:24:09 2015
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Revision Name : Mastermind
+Top-level Entity Name : Mastermind
+Family : Cyclone II
+Device : EP2C35F672C6
+Timing Models : Final
+Total logic elements : 839 / 33,216 ( 3 % )
+    Total combinational functions : 832 / 33,216 ( 3 % )
+    Dedicated logic registers : 189 / 33,216 ( < 1 % )
+Total registers : 189
+Total pins : 85 / 475 ( 18 % )
+Total virtual pins : 0
+Total memory bits : 24,044 / 483,840 ( 5 % )
+Embedded Multiplier 9-bit elements : 0 / 70 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

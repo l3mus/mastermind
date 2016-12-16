@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Mastermind">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Mastermind|Decoder:d1|rf_green:inst5|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_cm71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Mastermind|register_file:f1|check:inst1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_iid1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Mastermind|rng:r1|bit_12_counter:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_uai.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Mastermind|Decoder:d1|rf_blue:inst3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_3j71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Mastermind|Decoder:d1|rf_red:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_mf71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Mastermind|register_file:f1|tries_randoms:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_mid1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Mastermind|textbox:u3|chars:mem1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_isc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Mastermind|textbox:u3|sysfont:mem2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_s181.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

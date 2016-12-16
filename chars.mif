@@ -1,0 +1,128 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=8;
+DEPTH=1024;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	[000..087]  :   20;
+	088  :   4D;
+	089  :   61;
+	08A  :   73;
+	08B  :   74;
+	08C  :   65;
+	08D  :   72;
+	08E  :   4D;
+	08F  :   69;
+	090  :   6E;
+	091  :   64;
+	[092..0CB]  :   20;
+	0CC  :   62;
+	0CD  :   79;
+	[0CE..107]  :   20;
+	108  :   43;
+	109  :   61;
+	10A  :   72;
+	10B  :   6C;
+	10C  :   6F;
+	10D  :   73;
+	10E  :   20;
+	10F  :   4C;
+	110  :   65;
+	111  :   6D;
+	112  :   75;
+	113  :   73;
+	[114..147]  :   20;
+	148  :   5A;
+	149  :   61;
+	14A  :   63;
+	14B  :   68;
+	14C  :   20;
+	14D  :   4E;
+	14E  :   65;
+	14F  :   6C;
+	150  :   73;
+	151  :   6F;
+	152  :   6E;
+	[153..183]  :   20;
+	184  :   47;
+	185  :   75;
+	186  :   65;
+	[187..188]  :   73;
+	189  :   20;
+	18A  :   74;
+	18B  :   68;
+	18C  :   65;
+	18D  :   20;
+	18E  :   34;
+	18F  :   20;
+	190  :   63;
+	191  :   6F;
+	192  :   6C;
+	193  :   6F;
+	194  :   72;
+	195  :   73;
+	[196..1C2]  :   20;
+	1C3  :   52;
+	1C4  :   65;
+	1C5  :   64;
+	[1C6..1C7]  :   20;
+	1C8  :   69;
+	1C9  :   73;
+	1CA  :   20;
+	1CB  :   63;
+	1CC  :   6F;
+	[1CD..1CE]  :   72;
+	1CF  :   65;
+	1D0  :   63;
+	1D1  :   74;
+	1D2  :   20;
+	1D3  :   70;
+	1D4  :   6F;
+	1D5  :   73;
+	1D6  :   69;
+	1D7  :   74;
+	1D8  :   69;
+	1D9  :   6F;
+	1DA  :   6E;
+	[1DB..203]  :   20;
+	204  :   57;
+	205  :   68;
+	206  :   69;
+	207  :   74;
+	208  :   65;
+	209  :   20;
+	20A  :   69;
+	20B  :   73;
+	20C  :   20;
+	20D  :   63;
+	20E  :   6F;
+	[20F..210]  :   72;
+	211  :   65;
+	212  :   63;
+	213  :   74;
+	214  :   20;
+	215  :   63;
+	216  :   6F;
+	217  :   6C;
+	218  :   6F;
+	219  :   72;
+	[21A..221]  :   00;
+	[222..3FF]  :   20;
+END;

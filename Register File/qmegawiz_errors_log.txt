@@ -1,0 +1,25 @@
+
+
+C:/Users/Zach/Desktop/Mastermind Masterpiece/Register File/rf_red.vhd
+
+Dec 02 04PM:43:03>: The following design file, which has identical name but a different extension 
+from the specified variation file, already exists in the working directory:
+
+rf_red.v
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?
+
+C:/Users/Zach/Desktop/Mastermind Masterpiece/Register File/rf_blue.vhd
+
+Dec 02 04PM:46:12>: The following design file, which has identical name but a different extension 
+from the specified variation file, already exists in the working directory:
+
+rf_blue.v
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?

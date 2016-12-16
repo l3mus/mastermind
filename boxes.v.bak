@@ -1,0 +1,33 @@
+module boxes(
+	input iCLK1,iCLK2,
+	input [9:0] px,
+	input [9:0] py,
+	output [9:0] oR,
+	output [9:0] oG,
+	output [9:0] oB,
+	output reg valid,
+	output pixel
+);
+// test that we are inside the textbox
+always
+	if(px>100 and px<(100+100) and py>100 and py<(100+100)) begin
+			valid <= 1'b1;
+			oR <= 10'FF0;
+			oG <= 10'FF0;
+			oB <= 10'FF0;
+	end else if (px>250 and px<(250+100) and py>250 and py<(250+100)) begin
+			valid <= 1'b1;
+			oR <= 10'00FF00;
+			oG <= 10'00FF00;
+			oB <= 10'00FF00;
+	end else begin	
+		   valid <= 1'b0;
+	end
+	
+	assign pixel = 1'b1;
+	
+endmodule
+
+
+
+	
